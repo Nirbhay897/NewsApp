@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4c111708.css","mappings":"AAAA,KACE,oBAAqB,CAIrB,WAAY,CADZ,aAAc,CADd,iBAGF","sources":["App.css"],"sourcesContent":[".box{\n  border: 2px solid red;\n  /* background-color:  grey ; */\n  text-align: center;\n  padding: 120px;\n  margin: 40px;\n}"],"names":[],"sourceRoot":""}
